@@ -1,0 +1,3 @@
+open () {
+	cmd.exe /C start "$1" "$@"
+}
